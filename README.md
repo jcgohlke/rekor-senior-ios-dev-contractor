@@ -8,7 +8,7 @@ Length: **2 months** (with possible contract-to-hire)
 
 Note: Contract billing will go through Upwork
 
-Rekor uses AI-driven technologies to serve the roadway intelligence industry. Our customers include federal agencies, states, and local municipalities and we provide services in various verticals including parking, traffic analysis, and license plate identification. We're pioneering a new way for police to acquire timely and actionable information to better serve their communities from the palm of their hand with a custom iOS application.
+[Rekor](https://rekor.ai) uses AI-driven technologies to serve the roadway intelligence industry. Our customers include federal agencies, states, and local municipalities and we provide services in various verticals including parking, traffic analysis, and license plate identification. We're pioneering a new way for police to acquire timely and actionable information to better serve their communities from the palm of their hand with a custom iOS application.
 
 #### About You
 
